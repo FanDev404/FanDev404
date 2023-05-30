@@ -1,5 +1,3 @@
-## Hello, Im Fan Dev <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-
 <p align="center">
   <img src="https://c.tenor.com/p-tsA5hdz2cAAAAi/crying-cute-anime.gif" width="50%" />
 </p> 
