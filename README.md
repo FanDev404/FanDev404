@@ -15,5 +15,11 @@
 </p>
 
  
-## Social Media
-<a href="https://wa.me/62895623764600" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+---
+📫 Social Media
+<p align="center">
+  <a href="https://wa.me/62895623764600"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://www.facebook.com/profile.php?id=100077504566465&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</p>
+
+-----
